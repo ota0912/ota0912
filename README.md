@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on my custom awesomewm build
+🌱 I’m currently learning burpsuite
+📫 How to reach me: `malekm09122003@gmail.com` or `OTA#5040` on discord
+😄 Pronouns: he/him
+⚡ Fun fact: I like pizza :)
