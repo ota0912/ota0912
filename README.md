@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning burpsuite
 
-📫 How to reach me: `malekm09122003@gmail.com` or `OTA#5040` on discord
+📫 How to reach me: `malekm09122003@gmail.com` or `OTA#1718` on discord
 
 😄 Pronouns: he/him
 
