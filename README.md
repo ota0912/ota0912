@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ota0912/ota0912/main/media/banner.png" height="200" align="center"/>
+<img src="https://raw.githubusercontent.com/ota0912/ota0912/main/media/banner.png" height="200" width="600" align="center"/>
 
 # About me
 
