@@ -26,4 +26,6 @@ idk
 
 ## Reach me at
 
-<img src="https://raw.githubusercontent.com/ota0912/ota0912/main/socials/linkedin.png" height="20em" align="center"/>
+<img src="https://raw.githubusercontent.com/ota0912/ota0912/main/socials/linkedin.png" height="30em" align="center"/>
+<img src="https://raw.githubusercontent.com/ota0912/ota0912/main/socials/mail.png" height="30em" align="center"/>
+<img src="https://raw.githubusercontent.com/ota0912/ota0912/main/socials/discord.png" height="30em" align="center"/>
