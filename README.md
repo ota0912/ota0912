@@ -25,6 +25,6 @@
 
 ## Reach me at
 
-<img src="https://raw.githubusercontent.com/ota0912/ota0912/main/socials/linkedin.png" height="30em" align="center"/> - here
-<img src="https://raw.githubusercontent.com/ota0912/ota0912/main/socials/mail.png" height="30em" align="center"/>
-<img src="https://raw.githubusercontent.com/ota0912/ota0912/main/socials/discord.png" height="30em" align="center"/>
+<img src="https://raw.githubusercontent.com/ota0912/ota0912/main/socials/linkedin.png" height="30em" align="center"/> - [here](https://www.linkedin.com/in/krrish-malhotra-39580b22a/)
+<img src="https://raw.githubusercontent.com/ota0912/ota0912/main/socials/mail.png" height="30em" align="center"/> - `malekm09122003@gmail.com`
+<img src="https://raw.githubusercontent.com/ota0912/ota0912/main/socials/discord.png" height="30em" align="center"/> - `OTA#1718`
