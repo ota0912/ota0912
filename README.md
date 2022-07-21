@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ota0912/ota0912/main/media/banner.png" height="50em" align="center"/>
+<img src="https://raw.githubusercontent.com/ota0912/ota0912/main/media/banner.png" align="center"/>
 
 # Hi there! I am Krrish!
 
