@@ -29,4 +29,4 @@
 
 <img src="https://raw.githubusercontent.com/ota0912/ota0912/main/Socials/mail.png" height="25em" align="center"/> - `malekm09122003@gmail.com`
 
-<img src="https://raw.githubusercontent.com/ota0912/ota0912/main/Socials/discord.png" height="30em" align="center"/> - `OTA#1718`
+<img src="https://raw.githubusercontent.com/ota0912/ota0912/main/Socials/discord.png" height="28em" align="center"/> - `OTA#1718`
