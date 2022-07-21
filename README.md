@@ -20,7 +20,9 @@ idk
 - A basic web dev project
 - Training my GPT-3 model for a discord bot 
 
-## 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜[<imgsrc="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" ti/>ta0912?template=classic&base.header=0&gists=1&lines=1&config.timezone=India%2FKolkata)
+## 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+
+![Metrics](https://metrics.lecoq.io/Raymo111?template=classic&base.header=0&gists=1&lines=1&config.timezone=India%2FKolkata)
 
 ## Reach me at
 
