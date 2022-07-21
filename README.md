@@ -26,4 +26,4 @@ idk
 
 ## Reach me at
 
-<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center"/>
+<img src="https://raw.githubusercontent.com/ota0912/ota0912/master/socials/linkedin.png" height="20em" align="center"/>
