@@ -7,9 +7,9 @@
 - Always eager to learn something new either through a new project or just working my way through documentations
 
 
-[![Krrish's github stats](https://github-readme-stats.vercel.app/api?username=ota0912&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Krrish's github stats](https://github-readme-stats.vercel.app/api?username=ota0912&count_private=true&show_icons=true&theme=dark&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ota0912&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ota0912&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # Currently working on 
 
