@@ -12,12 +12,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ota0912&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-# Currently working on 
-
-- My custom Awesomewm config
-- A basic web dev project
-- Training my GPT-3 model for a discord bot 
-
 # My Latest GitHub Metrics
 
 ![Metrics](https://metrics.lecoq.io/ota0912?template=classic&base.header=0&gists=1&lines=1&config.timezone=India%2FKolkata)
