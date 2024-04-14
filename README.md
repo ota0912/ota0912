@@ -12,14 +12,22 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ota0912&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-# My Latest GitHub Metrics
+[![Profile Visitors](https://komarev.com/ghpvc/?username=ShivanshAr97&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ShivanshAr97)
 
-![Metrics](https://metrics.lecoq.io/ota0912?template=classic&base.header=0&gists=1&lines=1&config.timezone=India%2FKolkata)
+# Connect with Me
 
-# Reach me at
-
-<img src="https://raw.githubusercontent.com/ota0912/ota0912/main/media/linkedin.png" height="25em" align="center"/> - [here](https://www.linkedin.com/in/krrish-malhotra-39580b22a/)
-
-<img src="https://raw.githubusercontent.com/ota0912/ota0912/main/media/mail.png" height="25em" align="center"/> - `malekm09122003@gmail.com`
-
-<img src="https://raw.githubusercontent.com/ota0912/ota0912/main/media/discord.png" height="28em" align="center"/> - `OTA#1718`
+<a href="https://www.linkedin.com/in/krrish-malhotra/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:malekm09122003@gmail.com" target="_blank" >
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://www.codechef.com/users/ota09" target="_blank" >
+    <img alt="Codechef" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white">
+</a>
+<a href="https://codeforces.com/profile/ota09" target="_blank" >
+    <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white">
+</a>
+<a href="https://leetcode.com/ota09/" target="_blank" >
+    <img alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
+</a>
