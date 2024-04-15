@@ -12,7 +12,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ota0912&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Profile Visitors](https://komarev.com/ghpvc/?username=ShivanshAr97&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ShivanshAr97)
+[![Profile Visitors](https://komarev.com/ghpvc/?username=ota0912&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ota0912)
 
 # Connect with Me
 
